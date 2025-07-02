@@ -62,12 +62,11 @@ Infinity Glove is a wearable IoT solution using ESP32 and ESP8266 microcontrolle
 
 ## 📽️ Demo
 
-[Watch Demo Video](#) *(Insert link to demo video here)*
+[Watch Demo Video](#) *(not yet uploaded)*
 
 ## 📎 Project Report & Presentation
 
-* [Project Report PDF](#) *(optional)*
-* [Presentation Slides](#) *(optional)*
+* [Project Report PDF](https://drive.google.com/file/d/1sJQKHrAKNVh8CoKLUUXAXjCrjRiP5Yd0/view?usp=sharing)(#) 
 
 ## 🤝 Acknowledgements
 
