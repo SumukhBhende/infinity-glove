@@ -54,7 +54,7 @@ Infinity Glove is a wearable IoT solution using ESP32 and ESP8266 microcontrolle
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SumukhBhende/Infinity-Glove.git
+  [ git clone https://github.com/SumukhBhende/infinity-glove.git]
 
 2. Open Arduino IDE and install board support for ESP32 and ESP8266.
 3. Upload `transmitter.ino` to ESP32 and `receiver.ino` to ESP8266.
